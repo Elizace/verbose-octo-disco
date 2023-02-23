@@ -1,2 +1,2 @@
-# verbose-octo-disco
+# excursion
 discover hidden places in the world around you
