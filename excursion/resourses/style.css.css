@@ -1,0 +1,27 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: wheat;
+    background: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.download_s {
+    color: aqua;
+    text-decoration: underline;
+}
+
+:hover.download_s {
+    color: greenyellow;
+}
+
+.video {
+    display: flex;
+}
+
+.footer {
+    display: flex;
+    justify-content: flex-end;
+}
